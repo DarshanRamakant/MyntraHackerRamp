@@ -25,9 +25,6 @@ Key 'n' - To update the segmentation
 Key 'r' - To reset the setup
 Key 's' - To save the results
 ===============================================================================
-'''
-
-"""
 References:
 	1. OpenCV documentation on GrabCut:	
 		http://docs.opencv.org/3.1.0/d8/d83/tutorial_py_grabcut.html
@@ -36,7 +33,7 @@ References:
 	3. Youtube tutorial on GrabCut:
 		https://www.youtube.com/watch?v=kAwxLTDDAwU
 
-"""
+'''
 # Python 2/3 compatibility
 from __future__ import print_function
 
